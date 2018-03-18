@@ -1,6 +1,6 @@
 const { parseQuery } = require("loader-utils");
 
-function staticFileLoader(source) {
+function staticFilesLoader(source) {
   if (!this.emitFile)
     throw new Error(
       "Static Files Loader\n\nemitFile is required from module system"
