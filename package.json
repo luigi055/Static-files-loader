@@ -1,8 +1,7 @@
 {
   "name": "static-files-loader",
-  "version": "0.1.0",
-  "description":
-    "static-files-loader is a webpack loader which process your static files from src like .ico and .txt",
+  "version": "0.1.1",
+  "description": "static-files-loader is a webpack loader which process your static files from src like .ico and .txt",
   "main": "index.js",
   "author": "Pedro La Rosa",
   "license": "MIT",
