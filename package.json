@@ -1,0 +1,23 @@
+{
+  "name": "static-files-loader",
+  "version": "0.1.0",
+  "description":
+    "static-files-loader is a webpack loader which process your static files from src like .ico and .txt",
+  "main": "index.js",
+  "author": "Pedro La Rosa",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:luigi055/static-files-loader.git"
+  },
+  "bugs": {
+    "url": "https://github.com/luigi055/static-files-loader/issues"
+  },
+  "homepage": "https://github.com/luigi055/static-files-loader",
+  "peerDependencies": {
+    "file-loader": "^1.0.0"
+  },
+  "dependencies": {
+    "loader-utils": "^1.1.0"
+  }
+}
